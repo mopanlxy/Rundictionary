@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mopan.runningdiary.activity.MusicActivity">
+
+    <Button
+        android:id="@+id/btn_play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Play"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="98dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/seekBar"
+        android:layout_marginTop="122dp" />
+
+    <Button
+        android:id="@+id/btn_stop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stop"
+        tools:layout_editor_absoluteX="226dp"
+        tools:layout_editor_absoluteY="94dp"
+        android:layout_above="@+id/seekBar"
+        android:layout_alignEnd="@+id/seekBar" />
+
+    <SeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="271dp"
+        android:layout_height="41dp"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="246dp"
+        android:layout_marginTop="97dp"
+        android:layout_below="@+id/btn_play"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
