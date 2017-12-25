@@ -1,0 +1,561 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:2:1-93:12
+	package
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:7:22-70
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:9:19-71
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:12:5-84
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:12:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\ba59905cc6e471bf46feae61ced7821215cc1349\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\9b58ea80906b6dfb1b6ee2b8b235d5fa4499dffe\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\dd4d3215a038d57d6d2871a87e50e59074fe0200\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\42787bcea51372e4105aedb48327da2669b86146\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8f5f5e1a54c4a56bc52023026ef4249381ffea3c\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1c974e8bdeddcb0ad7d4c8f16620fb090c276788\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a4c26bd4f9d5931c1db43f955812b46fe88c8b4f\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\3b2ffbf49c0920243d165d208ed9220625c0c01c\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8b8722e6935bee7489863640b7c63d42b2237725\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:16:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\ba59905cc6e471bf46feae61ced7821215cc1349\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\9b58ea80906b6dfb1b6ee2b8b235d5fa4499dffe\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\5da9c4f41b0192bae3966ba8ce4c7832b7339d72\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a4c26bd4f9d5931c1db43f955812b46fe88c8b4f\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\3b2ffbf49c0920243d165d208ed9220625c0c01c\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8b8722e6935bee7489863640b7c63d42b2237725\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:18:5-98
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:18:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:24:22-76
+uses-feature#android.hardware.sensor.stepcounter
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:26:5-28:35
+	android:required
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:28:9-32
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:27:9-59
+uses-feature#android.hardware.sensor.stepdetector
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:29:5-31:35
+	android:required
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:31:9-32
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:30:9-60
+application
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:33:5-91:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\d587a8c8f9fb71203e3d44cfd8375a40468bbcf4\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\0b9d719636390e43f6e0f6462138aadcc91c9b05\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\ba59905cc6e471bf46feae61ced7821215cc1349\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\9b58ea80906b6dfb1b6ee2b8b235d5fa4499dffe\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\dd4d3215a038d57d6d2871a87e50e59074fe0200\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\e754ff748293e2679021d3808d12dfa34b437574\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\29516dc52cd2cdf348ccfb3520aa53500191f4c6\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a14c9918a91fc1bccea8d83ef7b2bd7c2f75e3dd\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\c3ed0206d835cbbdbc3fe3ea2813858e82ebc5b3\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\7db080c454353825e56f83f6bd691cccb1439e3e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1ea84683620947233ea7ea65cddaf2f157af5a04\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\42787bcea51372e4105aedb48327da2669b86146\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1c8583d68bf7bec9755c4373e2204d5915c6be1a\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\f48d529a8db25f3ed0bbcb80078a155842599175\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\7164f3485a2d46ffbc9afd8d1b515afe2fd9a705\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\134517fbd42069436d8008a47cb16d99d0c86094\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\ff3e4cedd6e1eda81f810e53071b3e1392d05508\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\2173431d5a789a72796edcfbe148e3003bf5e743\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8f5f5e1a54c4a56bc52023026ef4249381ffea3c\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\0d8c7ca40a6db9c27ce0afdea5c42d753b70c962\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1c974e8bdeddcb0ad7d4c8f16620fb090c276788\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\39a0eaaca66630507bee94119f3665d2dd5631ce\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\5da9c4f41b0192bae3966ba8ce4c7832b7339d72\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\2695614848dc5932d3ad0966c447355c41b22b94\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\c2565917a66522d9e44b2295e2786f3a1cbe2701\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\e01758a688b005391bd120cfe3678958d46b1866\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\f6259173f320f9f6b8a6c1e32ba6fa77879abdab\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a4c26bd4f9d5931c1db43f955812b46fe88c8b4f\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\c6d4f723ff7cca9a9dfe75ccce27be72bc2d57d0\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\84daa1889c5b61e35eb439c942563a8df0210a24\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\3b2ffbf49c0920243d165d208ed9220625c0c01c\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\d0a6cd930bc3192d23e04dbc2e4cda58c7b33cbb\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8f3fff0c3e6e6255da47a1bb6dde4e51be370b11\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8b8722e6935bee7489863640b7c63d42b2237725\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8f2eb4dc2cea6877de2ecae1436aa708ac2b5577\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\12c0eeafcef58c15127533424c4abb6ad464e7fb\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\acf6d71e0007c898153d65d36106e18826faaee8\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a0014e0c84b56c7b782891397cf97b16a0e02b90\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:mediarouter-v7:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\178125c3dca5a47e35f588e7630755b12a44f028\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\fbfb84ba47c0311b09605087b4dbba2b3abf2b8b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\f3500577a9a8475efb911b44ab5254e1a2b9e955\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\75e0078e2d0df31c431297f47179c9bedab0eb2f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8cf1cb018ea665aae45e9ee927a1a45ebb01a08c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\cadf69e15ae81789fc88ad4a2b87fbe1557a723b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\c5dd8bb80fe891b401090e9d6ba812161c77beaa\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b062b8031112ff0074f6d4214e6d8bd81b8a1acc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8754d3f3bc232bce72fc6941093c589d26603cb7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a32d29e73a2147df3cf80d1e8aef8cffee5fd8fe\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:36:9-41
+	android:supportsRtl
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:38:9-35
+	android:roundIcon
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:37:9-54
+	android:allowBackup
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:34:9-35
+	android:icon
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:35:9-43
+	android:theme
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:39:9-40
+activity#com.example.mopan.runningdiary.MainActivity
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:40:9-50
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:40:19-47
+service#com.example.mopan.runningdiary.step.service.StepService
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:42:9-56:19
+	android:priority
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:43:13-53
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.ACTION_TIME_TICK+android.intent.action.BOOT_COMPLETED+android.intent.action.DATE_CHANGED+android.intent.action.MEDIA_MOUNTED+android.intent.action.USER_PRESENT
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:45:13-55:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:48:17-79
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:48:25-76
+action#android.intent.action.DATE_CHANGED
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:49:25-74
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:50:17-78
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:50:25-75
+action#android.intent.action.USER_PRESENT
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:51:25-74
+action#android.intent.action.ACTION_TIME_TICK
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:52:17-81
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:52:25-78
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:53:17-87
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:53:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:54:17-90
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:54:25-87
+service#com.example.mopan.runningdiary.pedometer.StepsDetectService
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:57:9-72:19
+	android:process
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:60:13-90
+	android:priority
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:59:13-36
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:58:13-57
+activity#com.example.mopan.runningdiary.activity.RunningActivity
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:74:9-80:20
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:74:19-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:75:13-79:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:76:17-69
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:76:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:78:17-77
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:78:27-74
+activity#com.example.mopan.runningdiary.activity.HistoryActivity
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:81:9-62
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:81:19-59
+activity#com.example.mopan.runningdiary.activity.SetPlanActivity
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:82:9-62
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:82:19-59
+activity#com.example.mopan.runningdiary.activity.MusicActivity
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:83:9-69
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:83:19-57
+activity#com.example.mopan.runningdiary.activity.MediaPlayerActivity
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:84:9-86:20
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:84:19-63
+activity#com.example.mopan.runningdiary.activity.MapsActivity
+ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:87:9-90:20
+	android:name
+		ADDED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml:87:19-56
+uses-sdk
+INJECTED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\d587a8c8f9fb71203e3d44cfd8375a40468bbcf4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.orhanobut:logger:2.1.1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1ed6d7269173da9996f05805a65e1796e6bf6bca\output\AndroidManifest.xml:6:5-43
+MERGED from [com.google.android.gms:play-services:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\0b9d719636390e43f6e0f6462138aadcc91c9b05\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\3915ff472e545df484d2a74725c6e99d9f4d3024\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\ba59905cc6e471bf46feae61ced7821215cc1349\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\9b58ea80906b6dfb1b6ee2b8b235d5fa4499dffe\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\dd4d3215a038d57d6d2871a87e50e59074fe0200\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\e754ff748293e2679021d3808d12dfa34b437574\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a7d43a97e4604f44fb0b86955d9537133f223d94\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\29516dc52cd2cdf348ccfb3520aa53500191f4c6\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a14c9918a91fc1bccea8d83ef7b2bd7c2f75e3dd\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\c3ed0206d835cbbdbc3fe3ea2813858e82ebc5b3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\7db080c454353825e56f83f6bd691cccb1439e3e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1ea84683620947233ea7ea65cddaf2f157af5a04\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\42787bcea51372e4105aedb48327da2669b86146\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1c8583d68bf7bec9755c4373e2204d5915c6be1a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8ac4da06a05e7bb2a4eaaf880e8fe19584e1fa8f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\e489318596dbf647c6f0928fdcaa57f89db14f6e\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\f48d529a8db25f3ed0bbcb80078a155842599175\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\fffacbb96fd5cd900ce5073f862f071737d57b4f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\3f86b103ed3cc6fe3a08fe71fdafc409220aa586\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\7164f3485a2d46ffbc9afd8d1b515afe2fd9a705\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\134517fbd42069436d8008a47cb16d99d0c86094\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\ff3e4cedd6e1eda81f810e53071b3e1392d05508\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\2173431d5a789a72796edcfbe148e3003bf5e743\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8f5f5e1a54c4a56bc52023026ef4249381ffea3c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\0d8c7ca40a6db9c27ce0afdea5c42d753b70c962\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1c974e8bdeddcb0ad7d4c8f16620fb090c276788\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\015c13a33ae77dd19a65306986acf5de738631f8\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\39a0eaaca66630507bee94119f3665d2dd5631ce\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\5da9c4f41b0192bae3966ba8ce4c7832b7339d72\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\2695614848dc5932d3ad0966c447355c41b22b94\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\c2565917a66522d9e44b2295e2786f3a1cbe2701\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\e01758a688b005391bd120cfe3678958d46b1866\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\f6259173f320f9f6b8a6c1e32ba6fa77879abdab\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\5ff2d9a087974577b933ebd4bf6be32ecd984b91\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a4c26bd4f9d5931c1db43f955812b46fe88c8b4f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\c6d4f723ff7cca9a9dfe75ccce27be72bc2d57d0\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\84daa1889c5b61e35eb439c942563a8df0210a24\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\3b2ffbf49c0920243d165d208ed9220625c0c01c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\d0a6cd930bc3192d23e04dbc2e4cda58c7b33cbb\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8582df6e648414593e6d788eea7956ed631e0a21\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8f3fff0c3e6e6255da47a1bb6dde4e51be370b11\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8b8722e6935bee7489863640b7c63d42b2237725\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8f2eb4dc2cea6877de2ecae1436aa708ac2b5577\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\12c0eeafcef58c15127533424c4abb6ad464e7fb\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\acf6d71e0007c898153d65d36106e18826faaee8\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a0014e0c84b56c7b782891397cf97b16a0e02b90\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\178125c3dca5a47e35f588e7630755b12a44f028\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\fbfb84ba47c0311b09605087b4dbba2b3abf2b8b\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\f3500577a9a8475efb911b44ab5254e1a2b9e955\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\75e0078e2d0df31c431297f47179c9bedab0eb2f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8cf1cb018ea665aae45e9ee927a1a45ebb01a08c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\cadf69e15ae81789fc88ad4a2b87fbe1557a723b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\c5dd8bb80fe891b401090e9d6ba812161c77beaa\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b062b8031112ff0074f6d4214e6d8bd81b8a1acc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8754d3f3bc232bce72fc6941093c589d26603cb7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a32d29e73a2147df3cf80d1e8aef8cffee5fd8fe\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\74a93aa10df036671d0ed352df1684a44b1f0f4f\output\AndroidManifest.xml:18:5-42
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mopan\Desktop\RunningDiary\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\ba59905cc6e471bf46feae61ced7821215cc1349\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\ba59905cc6e471bf46feae61ced7821215cc1349\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\ba59905cc6e471bf46feae61ced7821215cc1349\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\ba59905cc6e471bf46feae61ced7821215cc1349\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\ba59905cc6e471bf46feae61ced7821215cc1349\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\ba59905cc6e471bf46feae61ced7821215cc1349\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\ba59905cc6e471bf46feae61ced7821215cc1349\output\AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\9b58ea80906b6dfb1b6ee2b8b235d5fa4499dffe\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a4c26bd4f9d5931c1db43f955812b46fe88c8b4f\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\3b2ffbf49c0920243d165d208ed9220625c0c01c\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\9b58ea80906b6dfb1b6ee2b8b235d5fa4499dffe\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\dd4d3215a038d57d6d2871a87e50e59074fe0200\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\dd4d3215a038d57d6d2871a87e50e59074fe0200\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\dd4d3215a038d57d6d2871a87e50e59074fe0200\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\dd4d3215a038d57d6d2871a87e50e59074fe0200\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\dd4d3215a038d57d6d2871a87e50e59074fe0200\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\dd4d3215a038d57d6d2871a87e50e59074fe0200\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\dd4d3215a038d57d6d2871a87e50e59074fe0200\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\dd4d3215a038d57d6d2871a87e50e59074fe0200\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\dd4d3215a038d57d6d2871a87e50e59074fe0200\output\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\e754ff748293e2679021d3808d12dfa34b437574\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\e754ff748293e2679021d3808d12dfa34b437574\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\e754ff748293e2679021d3808d12dfa34b437574\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\e754ff748293e2679021d3808d12dfa34b437574\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\e754ff748293e2679021d3808d12dfa34b437574\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\e754ff748293e2679021d3808d12dfa34b437574\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\e754ff748293e2679021d3808d12dfa34b437574\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\e754ff748293e2679021d3808d12dfa34b437574\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\e754ff748293e2679021d3808d12dfa34b437574\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\29516dc52cd2cdf348ccfb3520aa53500191f4c6\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\29516dc52cd2cdf348ccfb3520aa53500191f4c6\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\29516dc52cd2cdf348ccfb3520aa53500191f4c6\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\29516dc52cd2cdf348ccfb3520aa53500191f4c6\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\29516dc52cd2cdf348ccfb3520aa53500191f4c6\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\29516dc52cd2cdf348ccfb3520aa53500191f4c6\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\f48d529a8db25f3ed0bbcb80078a155842599175\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\f48d529a8db25f3ed0bbcb80078a155842599175\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\f48d529a8db25f3ed0bbcb80078a155842599175\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\f48d529a8db25f3ed0bbcb80078a155842599175\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\f48d529a8db25f3ed0bbcb80078a155842599175\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\f48d529a8db25f3ed0bbcb80078a155842599175\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\f48d529a8db25f3ed0bbcb80078a155842599175\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8f5f5e1a54c4a56bc52023026ef4249381ffea3c\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1c974e8bdeddcb0ad7d4c8f16620fb090c276788\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8f5f5e1a54c4a56bc52023026ef4249381ffea3c\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a4c26bd4f9d5931c1db43f955812b46fe88c8b4f\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a4c26bd4f9d5931c1db43f955812b46fe88c8b4f\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\c6d4f723ff7cca9a9dfe75ccce27be72bc2d57d0\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\c6d4f723ff7cca9a9dfe75ccce27be72bc2d57d0\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\c6d4f723ff7cca9a9dfe75ccce27be72bc2d57d0\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\c6d4f723ff7cca9a9dfe75ccce27be72bc2d57d0\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\c6d4f723ff7cca9a9dfe75ccce27be72bc2d57d0\output\AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8b8722e6935bee7489863640b7c63d42b2237725\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8b8722e6935bee7489863640b7c63d42b2237725\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8b8722e6935bee7489863640b7c63d42b2237725\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\12c0eeafcef58c15127533424c4abb6ad464e7fb\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\12c0eeafcef58c15127533424c4abb6ad464e7fb\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\12c0eeafcef58c15127533424c4abb6ad464e7fb\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\12c0eeafcef58c15127533424c4abb6ad464e7fb\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a0014e0c84b56c7b782891397cf97b16a0e02b90\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a0014e0c84b56c7b782891397cf97b16a0e02b90\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a0014e0c84b56c7b782891397cf97b16a0e02b90\output\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:mediarouter-v7:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\178125c3dca5a47e35f588e7630755b12a44f028\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\fbfb84ba47c0311b09605087b4dbba2b3abf2b8b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\f3500577a9a8475efb911b44ab5254e1a2b9e955\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\75e0078e2d0df31c431297f47179c9bedab0eb2f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8cf1cb018ea665aae45e9ee927a1a45ebb01a08c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\cadf69e15ae81789fc88ad4a2b87fbe1557a723b\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\c5dd8bb80fe891b401090e9d6ba812161c77beaa\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:palette-v7:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b062b8031112ff0074f6d4214e6d8bd81b8a1acc\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8754d3f3bc232bce72fc6941093c589d26603cb7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a32d29e73a2147df3cf80d1e8aef8cffee5fd8fe\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:mediarouter-v7:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\178125c3dca5a47e35f588e7630755b12a44f028\output\AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from [com.android.support:mediarouter-v7:26.0.0-alpha1] C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\178125c3dca5a47e35f588e7630755b12a44f028\output\AndroidManifest.xml:23:9-47
