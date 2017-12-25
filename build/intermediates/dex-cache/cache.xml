@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\f6259173f320f9f6b8a6c1e32ba6fa77879abdab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d068a922134f5f9b9f98bfc609145e09af03c2a4">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_f4d48ac57de0e0e6392add0e00820f03412ed0ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\3915ff472e545df484d2a74725c6e99d9f4d3024\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_dbdc1c5f7f5fea9d98df75555712285492f21966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\e01758a688b005391bd120cfe3678958d46b1866\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_d2b6659fb70d3f8eab1d3db55ea01b7fad74c05e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8f5f5e1a54c4a56bc52023026ef4249381ffea3c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_b6bfe4ef841e9840a76a4b42daf71467263e47ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\ba59905cc6e471bf46feae61ced7821215cc1349\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_383d19ba132c3d9f6b1c631fddd84275ac8aec47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\c3ed0206d835cbbdbc3fe3ea2813858e82ebc5b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_664a4051a18f8be3fcee5941a5a99c0d0ac0a7f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\fffacbb96fd5cd900ce5073f862f071737d57b4f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_53395f9342fe18d85a8f01897f40e19214fc4ad6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\84daa1889c5b61e35eb439c942563a8df0210a24\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4e5223997fa6032b326167ee4586ae0b3498647">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_3096067082139a071c0af78b8a36325b7512db34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\5ff2d9a087974577b933ebd4bf6be32ecd984b91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="81978250f6de6ffdf2ea4632e7955613103e984c">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_adee9d4917d119eb521f010236c69546b224697f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a4c26bd4f9d5931c1db43f955812b46fe88c8b4f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_8c3d20a02ce40697c05a1f2bf873544a58cd3b0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8ac4da06a05e7bb2a4eaaf880e8fe19584e1fa8f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_bc792082e634cfa72cd760c70755da0c9b95a2f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\42787bcea51372e4105aedb48327da2669b86146\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_454b1c2b51bb4fc8167121a1a6c036e5f6415b0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\dd4d3215a038d57d6d2871a87e50e59074fe0200\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="79100391e3b32d7323a04b7b8a9c8ad0adbae583">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_92e1cd6130f79ccc0f5e37a1b875776b983f7267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\5da9c4f41b0192bae3966ba8ce4c7832b7339d72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd057bc43f1c1e2f13566f5fe800d077b08b61b9">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_91429ebefcbcd3b5260d97c6a2daf43eb0ef8b08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a7d43a97e4604f44fb0b86955d9537133f223d94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_d9133f0196331f776de3fc585ea6367d209565c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\9b58ea80906b6dfb1b6ee2b8b235d5fa4499dffe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ab2c6111c9e733c965725976ca2a2e57670000f9">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_89ff307b87fc4a2c7d1634ed952a12a5a8fc649f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\12c0eeafcef58c15127533424c4abb6ad464e7fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_ae6ada94b811c6c81a32d1fda036ea02aa55d8c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\e754ff748293e2679021d3808d12dfa34b437574\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_c7a3acab3b44d692869d9e2345acfb54d9bf9702.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b062b8031112ff0074f6d4214e6d8bd81b8a1acc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf4fb00f04118828b9faea3f72e1514065a5441e">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_74eaf8117930b44441a8aeff684c92cb3085df22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a0014e0c84b56c7b782891397cf97b16a0e02b90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_cee0d99032cb5003758d3c4b59b2878ec6be3af6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\3b2ffbf49c0920243d165d208ed9220625c0c01c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cad5ae5774f39b7017a3ae3d103e7b78506397b0">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_c2147c6cad15679190e7ebbc8ace14a578a238e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\7db080c454353825e56f83f6bd691cccb1439e3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4ba6d53176502b2672a5d7d25a0000d1a6e701c">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_7b04dc7a8c0ef96cc1031c731621ced5010bee18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\2173431d5a789a72796edcfbe148e3003bf5e743\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_bfdeb7703fc1063a427b95dcaab091f7673eae13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\2695614848dc5932d3ad0966c447355c41b22b94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0c7e0d83e333a25f969bce43db78150c63e7aa0c">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_9aa50478221d51bfa8680479d2d44d1576d58f37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1b1daf8c2d00734dd405463d1ee22609bb883bd6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_674c86f580d515bab8ee1f10f2296f00afefbf43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\e489318596dbf647c6f0928fdcaa57f89db14f6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_ed4e3dff528c2eaaea6049f05d1f2003dcfbf2b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Desktop\RunningDiary\app\libs\lite-orm-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf59a1eca660fa671d66922676c035846c94e5d5">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\lite-orm-1.7.0_03a2df1c15b8004ff1f4457a1236da5f55887e8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1c974e8bdeddcb0ad7d4c8f16620fb090c276788\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_0f114ff75287a0171aedd9f4ea78b4a533f4accb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8b8722e6935bee7489863640b7c63d42b2237725\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_19ca6d1d2f4c65b573f6c5b88103c49ef0fc9b0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\b8ebd7a55a4f09e00263b48ef23698970469d70e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_aca90d9a58e66aac373a52e934c60ca643389268.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\c6d4f723ff7cca9a9dfe75ccce27be72bc2d57d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_09c268726e9370596e39ffe244b0e2ce9a823c97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\c2565917a66522d9e44b2295e2786f3a1cbe2701\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_990e1771f7b126d2cbf5651b8ac124e6f8d3e460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8f2eb4dc2cea6877de2ecae1436aa708ac2b5577\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_661d8be201567e9d3336fb4afcd1c000fdee264c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\178125c3dca5a47e35f588e7630755b12a44f028\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2ce2c0c9a32b2571ad6e9a7b8eed85d1d165db90">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_c18b0d28f81b1e55ad913f2a5301588a12bdb9bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1c8583d68bf7bec9755c4373e2204d5915c6be1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_4b6a0aa753e97ccaa922fce90656c042a8f0aeac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\39a0eaaca66630507bee94119f3665d2dd5631ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_7ff399d4e556a90f9ac4421c93b7888aa2691e86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8f3fff0c3e6e6255da47a1bb6dde4e51be370b11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f1968b9614bc6851e99db64e356cf60063503e5d">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_51e318b3c976beac03d72576f0c59025d16fa4fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\7164f3485a2d46ffbc9afd8d1b515afe2fd9a705\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f2f16fde0c662116f735951b4e830afba373cc6">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_6f313ddf37c8541745169a6955065411a7e437aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\3f86b103ed3cc6fe3a08fe71fdafc409220aa586\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_ec9e43e2342c0cbd63f2b1bc5246240041fcdd81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\d0a6cd930bc3192d23e04dbc2e4cda58c7b33cbb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_bfcb66389a993e24e52c6c4467cb5c521d30a67c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\29516dc52cd2cdf348ccfb3520aa53500191f4c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9aa417cd6d4373c413f6e60865133bcfdb7096b">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_7edaf3fd940d27a40a53bf1aa363c3fa55998253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\ff3e4cedd6e1eda81f810e53071b3e1392d05508\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aec5337725e7a3171f7f40a50d9837745693d429">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_01e8d6847f1a44fac58013ebcf71dad2f9b6d917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\134517fbd42069436d8008a47cb16d99d0c86094\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b41f7538ea1af0aad76cb3253b87b13744788c2">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_60877225197902f5216ccd4cc8d22fcf017208c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\8582df6e648414593e6d788eea7956ed631e0a21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="553e58050e91d4295a2f1d1f80ea63b41ee5bc4b">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_e58e2c1cfa15b6758e7f58c676359a5d816abbf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\0d8c7ca40a6db9c27ce0afdea5c42d753b70c962\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b34276d1fea450411cedd49d3146b04838f9dd6e">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_22b20f3ea3eb27c7f78ccd507901ec48507feaa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1ea84683620947233ea7ea65cddaf2f157af5a04\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="079c035b2a1820bf455e0ae7fd484dec575e2182">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_5ceb677eb0649266fcfde0b7a3e51cdb08b3e408.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\a14c9918a91fc1bccea8d83ef7b2bd7c2f75e3dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="60a8cdd1ad9b8d22a5d44bc8e479257ced2bf075">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_0399ca82ee505981163c7f230edb18479552bf1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\acf6d71e0007c898153d65d36106e18826faaee8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_0548a516d4f38fbd5c41c917242407d3eb25102d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\1ed6d7269173da9996f05805a65e1796e6bf6bca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f3da801940221b852f3a3ee82bfe2a10d39e4ffa">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_ccc62b5063c33534b91f2bd7f197993a4588b5cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\015c13a33ae77dd19a65306986acf5de738631f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a00607e7cf55392edd324bc8fa3827ded7e9859b">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_e431cafbe3269d4370a433af27c2dc8b7c930121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\6ef3039053257d4e9a0b879e31b21c667f96ff26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="84a9797d6c3dd732d00f0433edc17778573cea17">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_e9932954101a6a5addcede3bce5912b35a48ed8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mopan\Downloads\sdk\AVDpath\.android\build-cache\f48d529a8db25f3ed0bbcb80078a155842599175\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="C:\Users\mopan\Desktop\RunningDiary\app\build\intermediates\pre-dexed\debug\classes_2853fca0026a52ee91e39d29381482579181024b.jar" />
+    </item>
+
+</items>
